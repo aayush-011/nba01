@@ -1,0 +1,62 @@
+h1{
+	color: #01ac4d;
+	font-family: arial;
+	font-style: italic;
+	font-size: 200%;
+	text-align: center;
+}
+div{
+	display: inline-block;
+	width: 18%;
+}
+img{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+
+}
+h2{
+	text-align: left;
+	font-size: 150%;
+	font-family: cursive;
+	color: #12aa21;
+}
+h3{
+	text-align: center;
+	font-size: 120%;
+	font-family: cursive;
+	color: #412aaa;
+}
+ol{
+	font-family: cursive;
+	color: #cad012
+	font-size:150%;
+}
+head{
+	background:black;
+}
+body{
+	background: #fe111a;
+}
+a{
+	display: block;
+	color: #123aea;
+	text-decoration: none;
+	background: #eaff12;
+	margin-bottom: 2%;
+}
+a:hover{
+	color: #111111;
+	background: #778887;
+}
+a:focus{
+	color: #111111;
+	background: #778887;
+}
+a:active{
+	border: 4px dotted #0a0a0a;
+}
+ol{
+	list-style-image: url(https://newscdn.weigelbroadcasting.com/mRgPW-1573075860-150539-blog-bc_nba_abc.svg);
+	l
+}
