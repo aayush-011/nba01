@@ -1,0 +1,114 @@
+
+h1{
+	color: #111111;
+	font-family: arial;
+	font-style: italic;
+	font-size: 200%;
+	text-align: center;
+		transition-property: color,font-family,font-size;
+	transition-duration: .5s;
+	transition-delay: .5s;
+	transition-timing-function: linear;
+}
+div{
+	display: inline-block;
+	width: 18%;
+}
+img{
+	height: 10%;
+	width: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius:1px;
+	border-width: 3px;
+	border-style: ridge;
+	border-color: #be1818;
+	transition-property: border-radius,border-width,height,width;
+	transition-duration: .5s;
+	transition-delay: .5s;
+	transition-timing-function: linear;
+}
+
+
+
+
+
+h2{
+	text-align: left;
+	font-size: 150%;
+	font-family: cursive;
+	color: white;
+}
+h3{
+	text-align: center;
+	font-size: 120%;
+	font-family: cursive;
+	color: white;
+}
+ol{
+	font-family: cursive;
+    color: white;
+	
+}
+
+body{
+	background: linear-gradient(to top right,red,black,white);
+	clear: both;
+}
+a{
+	display: block;
+	color: #111111;
+	text-decoration: none;
+	background: #eaff12;
+	margin-bottom: 2%;
+	height: 23px;
+	transition-property: height;
+	transition-duration: .2s;
+	transition-delay: .2s;
+	transition-timing-function: linear;
+}
+a:hover{
+	color: #ffffff;
+	background: #778887;
+	height: 30px;
+	text-decoration: underline;
+
+}
+a:focus{
+	color: #111111;
+	background: #778887;
+}
+a:active{
+	border: 4px dotted #0a0a0a;
+}
+ol{
+	list-style-image: url(https://newscdn.weigelbroadcasting.com/mRgPW-1573075860-150539-blog-bc_nba_abc.svg);
+	l
+}
+.alt{
+	font-family: cursive;
+	color: #111111;
+	font-size:100%;
+
+}
+.opp{
+	background: #778887;
+	color: #ffffff;
+	height: 23px;
+	transition-property: height;
+	transition-duration: .2s;
+	transition-delay: .2s;
+	transition-timing-function: linear;
+}
+.opp:hover{
+	background: #eaff12 ;
+	color: #111111;
+	height: 30px;
+	text-decoration: underline;
+
+}
+.red{
+	color: red;
+}
+
